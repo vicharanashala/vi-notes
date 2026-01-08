@@ -127,4 +127,4 @@ If you are interested in working on an existing feature request or proposing a n
 
 ## License
 
-MIT License
+This project is licensed under the MIT License.
